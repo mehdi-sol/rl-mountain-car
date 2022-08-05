@@ -1,5 +1,6 @@
 ## Fuzzy learning solution to Continuous Mountain Car
-![](https://raw.githubusercontent.com/mehdi-sol/rl-mountain-car/main/rl-mountain-car.gif)
+![](https://raw.githubusercontent.com/mehdi-sol/rl-mountain-car/main/rl-mountain-car.gif)  
+
 This is a Reinforcement Learning Agent that solves the [Continuous Mountain Car problem](https://www.gymlibrary.ml/environments/classic_control/mountain_car_continuous/).
 
 ## How to run this?
